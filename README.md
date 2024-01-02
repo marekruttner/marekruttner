@@ -1,7 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+💬 My name is Marek and I am form Czech republic. Currntly I'm working as development leader @ nvias.org and starting some new projects. 
 
-# 💁🏼 
-
+## My experinces
+- Unity VR development for Oculus Quest
+- AI toys and examples in Tensorflow and Python
+- Web / native applicatons in Flluter or React Native
+- Project management and team leading of development teams
 <!--
 **marekruttner/marekruttner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
